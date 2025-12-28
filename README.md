@@ -1,4 +1,4 @@
-<h1>Hi, I'm Cameron, an <a href="https://linkedin.com/in/cameron-coleman-1632a0109">IT Professional</a>!</h1>
+<h1>Hi, I'm Cameron, an <a href="https://linkedin.com/in/cameron-coleman-1632a0109"> aspiring IT Professional</a>!</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
