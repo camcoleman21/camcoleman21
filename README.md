@@ -9,6 +9,8 @@
 - <b>Microsoft Azure</b>
   - [Implementing Active Directory within Azure VMs](https://github.com/camcoleman21/implementing-active-directory)
   - [Enforcing Group Policy and Account Management within Active Directory](https://github.com/camcoleman21/group-policy-and-account-management)
+- <b>Network File Shares and Permissions</b>
+  - [Enforcing Group Policy and Account Management within Active Directory](https://github.com/camcoleman21/group-policy-and-account-management)
 
 <h2>🤳Connect with me:</h2>
 
