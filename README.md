@@ -5,7 +5,6 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/camcoleman21/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/camcoleman21/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/camcoleman21/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Implementing Active Directory within Azure VMs](https://github.com/camcoleman21/implementing-active-directory)
   - [Enforcing Group Policy and Account Management within Active Directory](https://github.com/camcoleman21/group-policy-and-account-management)
