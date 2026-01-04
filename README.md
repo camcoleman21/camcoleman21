@@ -12,6 +12,15 @@
 - <b>Network File Shares and Permissions</b>
   - [Network File Sharing and Permissions using Azure VM](https://github.com/camcoleman21/network-file-share-permissions)
 
+<h2>🛠️Skills Gained Through CourseCareers IT Program:</h2>
+
+- Created and managed virtual machines for IT lab environments
+- Installed, configured, and used **osTicket** for ticket tracking and resolution
+- Built and maintained general employee databases
+- Created and managed user accounts with role-based permissions
+- Practiced real-world IT support workflows and documentation
+- Strengthened troubleshooting skills for hardware, software, and networking basics
+
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Cameron | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
