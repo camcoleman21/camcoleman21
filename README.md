@@ -1,4 +1,6 @@
-<h1>Hi, I'm Cameron, an <a href="https://linkedin.com/in/cameron-coleman-1632a0109"> aspiring IT Professional</a>!</h1>
+<h1>Hi, I'm Cameron, an <a href="https://linkedin.com/in/cameron-coleman-1632a0109"> aspiring IT Professional</a>! </h1>
+
+<h2>I am enthusiastic about information technology/security and strive to find solutions using my detail-oriented and communication skills to positively impact the organization and the people it serves. My highest value lies in maintaining a strong security posture to ensure the protection of sensitive information and risk mitigation.</h2>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
